@@ -1,0 +1,38 @@
+{
+
+
+"name":"𝕄Movie Trilogy𝕠(ภาคต่อ)",
+"author":"โดยบาวเอง",
+"image":"https://drive.google.com/uc?id=1zIfzeCoBbY1sV1AlBSDD_cmZLuBRK1P2",
+"url":"https://www.dropbox.com/s/cwpfi9z3j3gd5th/movies-trilogy.txt?dl=1",
+
+
+"groups":[
+
+{
+"name":"Avatar อวตาร ภาค 1-2",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHpKxeC7on9zbr9iVTAJF2KXnncDGcK5xQA&usqp=CAU",
+"author":"เฉพาะบาว",
+"info":"",
+             
+"stations":[
+
+{"name":"Avatar (2009) อวตาร",
+image:"https://see2movie.com/wp-content/uploads/2021/10/Avatar-2009.jpg",
+"info":"พากย์ไทย",
+url:"https://www.ongetvideo.xyz/playhls/play.php?id=7043",
+"referer":"https://see2movie.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},
+
+
+{"name":"Avatar 2 The Way of Water (2022) อวตาร 2 วิถีแห่งสายน้ำ (รออัปเดต)",
+image:"https://see2movie.com/wp-content/uploads/2022/09/Avatar-2-The-Way-of-Water-2022...jpg",
+"info":"พากย์ไทย",
+url:"https://depositphotos.com/vector-images/picture-coming-soon.html",
+"referer":"https://see2movie.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000"},
+
+]
+},
+]
+}
