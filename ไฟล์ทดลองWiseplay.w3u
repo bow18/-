@@ -29,22 +29,5 @@
 		"url": "https://raw.githubusercontent.com/bow18/-/main/%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B8%97%E0%B8%94%E0%B8%A5%E0%B8%AD%E0%B8%87Wiseplay.w3u",
 		"import": "false"
 },
-{
-		"name": "123-HD.com",
-		"author": "เจียว เจียว",
-		"info": "ถ้าคุณรู้สึกเหนื่อยจงเรียนรู้ที่จะพักแต่อย่าล้มเลิก",
-		"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-		"groups":[
-		{
-			"name": "หนัง",
-			"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-			"info": "วันไหนที่หมดไฟจงนึกถึงวันแรกที่อยากทำ",
-			"groups":[
-			{
-				"name": "ดูหนังออนไลน์HD",
-				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-				"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ฟรีสำหรับรับชมในที่พัก/123-hd_ดูหนังออนไลน์.w3u",
-				"import": "false"
-			},
 ]
 }
