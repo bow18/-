@@ -239,6 +239,22 @@
 				"image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
 				"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ฟรีสำหรับรับชมในที่พัก/123-hd_ซีรีย์วาย.w3u",
 				"import": "false"
+},
+		  ]
+		}
+	  ]
+	},
+	{
+		 "name": "9NUNGHD",
+		 "author": "เจียว เจียว",
+		 "info": "ความสำเร็จเกิดจากความพยายามเล็กน้อย ซ้ำแล้วซ้ำเล่าในทุกๆ วัน",
+		 "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+		 "groups": [
+		{
+		   "name": "หน้า Home", 
+		   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+		   "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ฟรีสำหรับรับชมในที่พัก/9nunghd_.w3u",
+		   "import": "false"
 			}
 		  ]
 		}
