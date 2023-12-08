@@ -255,6 +255,18 @@
 		   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
 		   "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ฟรีสำหรับรับชมในที่พัก/9nunghd_.w3u",
 		   "import": "false"
+	},
+		{
+			"name": "หนัง",
+			"author": "เจียว เจียว",
+			"info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+			"image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+			"groups": [
+			{
+			   "name": "หนังใหม่", 
+			   "image": "https://www.9nunghd.com/wp-content/themes/9nunghd/img/logo-9nung-2023.png",
+			   "url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/หาอะไรดูๆไปก็พอแล้ว/ฟรีสำหรับรับชมในที่พัก/9nunghd_หนังใหม่.w3u",
+			   "import": "false"
 			}
 		  ]
 		}
